@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329199796442",
+    "project_id": "zohbihome-f96bd",
+    "storage_bucket": "zohbihome-f96bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329199796442:android:ae08197589c3c75f6265e3",
+        "android_client_info": {
+          "package_name": "com.connect.zohbihome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329199796442-m09r0un33od1nlqr2pg21vlu8m5rnmvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybFdX5q43fSy3DcM1_5LLRc3Yca0v5-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329199796442-m09r0un33od1nlqr2pg21vlu8m5rnmvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
